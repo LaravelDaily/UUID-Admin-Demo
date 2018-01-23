@@ -11,10 +11,10 @@ Adminpanel's user management works, using [webpatser/laravel-uuid](https://githu
 ```
 public static function boot()
 {
-	parent::boot();
-	self::creating(function ($model) {
-		$model->uuid = (string) Uuid::generate();
-	});
+  parent::boot();
+  self::creating(function ($model) {
+    $model->uuid = (string) Uuid::generate();
+  });
 }
 ```
 
@@ -23,7 +23,7 @@ And then uses Route model binding, attaching UUID as parameter in edit/show URLs
 ```
 public function getRouteKeyName()
 {
-	return 'uuid';
+  return 'uuid';
 }
 ```
 

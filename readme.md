@@ -2,7 +2,7 @@
 
 It is a demo project for demonstrating how UUIDs work, and also what can be generated with [QuickAdminPanel](https://quickadminpanel.com).
 
-![Laravel UUIDs](http://webcoderpro.com/laravel-uuids-demo.png)
+![Laravel UUIDs](https://laraveldaily.com/wp-content/uploads/2018/11/laravel-uuids-demo.png)
 
 ## How it works
 
@@ -54,3 +54,4 @@ Basically, feel free to use and re-use any way you want.
 - Follow our [Twitter](https://twitter.com/dailylaravel) and [Blog](http://laraveldaily.com/blog)
 - Subscribe to our [newsletter with 20+ Laravel links every Thursday](http://laraveldaily.com/weekly-laravel-newsletter/)
 - Subscribe to our [YouTube channel Laravel Business](https://www.youtube.com/channel/UCTuplgOBi6tJIlesIboymGA)
+- Enroll in our [Laravel Online Courses](https://laraveldaily.teachable.com/)
